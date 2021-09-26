@@ -24,8 +24,8 @@
       <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>        
       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/> </a>
       <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-      <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  
-      <a href="https://www.netlify.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="netlify" width="40" height="40"/> </a>       
+<!--       <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  
+      <a href="https://www.netlify.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="netlify" width="40" height="40"/> </a>        -->
       <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
       <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/> </a> 
       <a href="https://developer.android.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="androidStudio" width="40" height="40"/> </a>
