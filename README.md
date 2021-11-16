@@ -1,11 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Devin Munasinghe</h1> 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=DevinMunasinghe" alt="kaveenLK"/></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=DevinMunasinghe" alt="Devin"/></p>
 
 - 👯 I’m interested in Software Development and Open Source
 - 🌱 I’m currently learning React Native, .NET and C#- 
 - 💞️ I’m looking to collaborate on any Software Dev/ Open Source Project
 - 📫 How to reach me : 
       -⚡ Email     : devinmunasinghe@gmail.com
+      -⚡ Portfolio  : https://devinmunasinghe.netlify.app
       -⚡ LinkedIn  : https://www.linkedin.com/in/devinmunasinghe/
 
 <h3 align="left">Languages and Tools:</h3>
