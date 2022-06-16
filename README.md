@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Devin Munasinghe</h1> 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" width="30px"> I'm Devin Munasinghe</h1> 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=DevinMunasinghe" alt="Devin"/></p>
 
 - 👯 I’m interested in Software Development and Open Source
