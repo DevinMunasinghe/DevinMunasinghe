@@ -2,7 +2,7 @@
 <p align="right"><img src="https://komarev.com/ghpvc/?username=DevinMunasinghe" alt="Devin"/></p>
 
 - 👯 I’m interested in Software Development and Open Source
-- 🌱 I’m currently learning Nextjs, Rust and Solana- 
+- 🌱 I’m currently learning Nextjs, Rust and Solana 
 - 💞️ I’m looking to collaborate on any Software Dev/ Open Source Project
 - 🧾 Checkout my blogs https://medium.com/@devinmunasinghe
 - 📫 How to reach me : 
